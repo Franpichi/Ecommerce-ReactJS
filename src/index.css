@@ -11,3 +11,74 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card-title{
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 2rem;
+}
+.card-text {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 1.5rem;
+}
+.card {
+  height: 600px;
+  width: 400px;
+  margin-left: 3.5rem;
+  margin-top: 3.5rem;
+  border: 5px solid rgb(123, 123, 153);
+  border-radius: 0px;
+}
+.btn {
+  background-color:black;
+  border: 2px solid rgb(123, 123, 153);
+  border-radius: 0px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding: 10px;
+  }
+.btn-primary {
+  background: rgb(121, 118, 118);
+} 
+.card-img-top {
+  border: 2px solid black;
+  background: rgb(121, 118, 118);
+  border-radius: 0px;
+  height: 350px;
+  width: 350px;
+  padding: 1rem;
+
+}
+.card-body {
+  justify-content: center;
+  text-align: center;
+}
+.img-fluid {
+  border: 3px solid rgb(123, 123, 153);
+  border-radius: 0px;
+}
+.itemDetail {
+  padding: 10px;
+  margin-left: 16rem;
+  width: 155rem;
+  height: 29rem;
+}
+.cardCart {
+  padding: 10px;
+  margin-left: 0.1rem;
+  width: 90rem;
+  height: 31rem;
+}
+.form-label {
+  font-family: 'Righteous', cursive;
+  font-size: 1.5rem;
+}
+.form-control {
+  font-family: 'Righteous', cursive;
+  font-size: 1.2rem;
+  border-radius: 0px;
+}
+.consultaBorde {
+  border: 3px solid black;
+  border-radius: 0px;
+}

@@ -1,0 +1,121 @@
+[
+    {
+        "id":1,
+        "idCategoria":"Premium",
+        "categoria": "2",
+        "nombre":"Curren-1",
+        "marca":"Curren",
+        "precio":"15000",
+        "stock": "15",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-1-curren.png?alt=media&token=2c1e4088-1576-4349-b332-6d502f42d0db"
+    },
+    {
+        "id":2,
+        "idCategoria":"Gold",
+        "categoria": "1",
+        "nombre":"Curren-2",
+        "marca":"Curren",
+        "precio":"27000",
+        "stock": "15",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-2-curren.png?alt=media&token=291d715f-b3c6-4bc3-b70c-9ab5807c2ca2"
+    },
+    {
+        "id":3,
+        "idCategoria":"Basico",
+        "categoria": "3",
+        "nombre":"Vincero-1",
+        "marca":"Vincero",
+        "precio":"10000",
+        "stock": "25",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-3-vincero.png?alt=media&token=4b8e8fd4-e837-4c96-8700-e7879e62c3f0"
+    },
+    {
+        "id":4,
+        "idCategoria":"Basico",
+        "categoria": "3",
+        "nombre":"Vincero-8",
+        "marca":"Vincero",
+        "precio":"9000",
+        "stock": "35",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-8-vincero.png?alt=media&token=9ceff57a-2baf-47d0-94ba-7673944ca0d1"
+    },{
+        "id":5,
+        "idCategoria":"Regular",
+        "categoria": "4",
+        "nombre":"Geneva-4",
+        "marca":"Geneva",
+        "precio":"23000",
+        "stock": "7",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-4-geneva.png?alt=media&token=658f3373-7615-4485-9fa4-7c3a2f02cc3b"
+    },
+    {
+        "id":6,
+        "idCategoria":"Basico",
+        "categoria": "3",
+        "nombre":"Minimal-5",
+        "marca":"Minimal",
+        "precio":"19000",
+        "stock": "11",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-5-minimal.png?alt=media&token=db71653b-7ace-497c-92a5-b188461e31b2"
+    },
+    {
+        "id":7,
+        "idCategoria":"Gold",
+        "categoria": "1",
+        "nombre":"Rolex-6",
+        "marca":"Rolex",
+        "precio":"150000",
+        "stock": "3",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-6-rolex.png?alt=media&token=e6acc4c1-61e9-4392-9f8d-cbe1df0625f0"
+    },
+    {
+        "id":8,
+        "idCategoria":"Premium",
+        "categoria": "2",
+        "nombre":"Montblanc-7",
+        "marca":"Montblanc",
+        "precio":"100000",
+        "stock": "5",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-7-montblanc.png?alt=media&token=acbc068b-b47d-41ab-8078-520b22cfaafc"
+    },
+    {
+        "id":9,
+        "idCategoria":"Gold",
+        "categoria": "1",
+        "nombre":"Rolex-9",
+        "marca":"Rolex",
+        "precio":"170000",
+        "stock": "7",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-9-rolex.png?alt=media&token=0f856e64-04ca-44fa-9de8-8e365761734b"
+    },
+    {
+        "id":10,
+        "idCategoria":"Regular",
+        "categoria": "4",
+        "nombre":"Geneva-10",
+        "marca":"Geneva",
+        "precio":"15000",
+        "stock": "5",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-10-geneva.png?alt=media&token=2d0b1cd2-9ebe-41b7-8062-dcb6757707fb"
+    },
+    {
+        "id":11,
+        "idCategoria":"Regular",
+        "categoria": "4",
+        "nombre":"Minimal-11",
+        "marca":"Minimal",
+        "precio":"9500",
+        "stock": "11",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-11-minimal.png?alt=media&token=6d61ce65-0ecd-4b6c-9975-0198c45d466f"
+    },
+    {
+        "id":12,
+        "idCategoria":"Regular",
+        "categoria": "2",
+        "nombre":"Montblanc-12",
+        "marca":"Montblanc",
+        "precio":"13200",
+        "stock": "7",
+        "img":"https://firebasestorage.googleapis.com/v0/b/proyectofinal-pizzichini.appspot.com/o/reloj-12-montblanc.png?alt=media&token=98e95dd8-b768-41a2-bad6-97622f088dc3"
+    }
+]
