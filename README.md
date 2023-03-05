@@ -14,8 +14,8 @@
 
 ## Creado con
 
-- [React] (link) - Javascript Framework
-- [Firebase] (link) - Server y Bases de Datos
-- [Toastify] (link) - Notificaciones y alertas
-- [Bootswatch] (link) - Estilos
-- [Video] (link) - Drive con video de funcionalidad y navegación
+- [React] (https://reactjs.org/docs/getting-started.html) - Javascript Framework
+- [Firebase] (https://console.firebase.google.com/) - Server y Bases de Datos
+- [Toastify] (https://aleab.github.io/toastify/) - Notificaciones y alertas
+- [Bootswatch] (https://bootswatch.com/) - Estilos
+- [Video] (https://www.loom.com/share/85a0afa423a949fbaf11f2d90d1dcc05) - Drive con video de funcionalidad y navegación
